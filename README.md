@@ -43,20 +43,5 @@ NumPy만을 사용하여 신경망(Neural Network)을 바닥부터(from scratch)
     - **Inclination:** 궤도 경사각의 변화
     - **Eccentricity:** 궤도 이심률 변화
 
-## 🛠️ 사용 라이브러리
-
-이 프로젝트들을 실행하기 위해 다음의 라이브러리들이 필요합니다.
-
-- `torch`
-- `transformers`
-- `datasets`
-- `evaluate`
-- `sacrebleu`
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `scikit-learn`
-
-
-
+##
 각 노트북 파일(`.ipynb`)은 Google Colab 또는 로컬 Jupyter Notebook 환경에서 실행할 수 있다.
